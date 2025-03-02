@@ -1,0 +1,9 @@
+.ai-suggestion-overlay {
+  pointer-events: none;
+  color: #9CA3AF;
+  font-family: monospace;
+  white-space: pre-wrap;
+  overflow-wrap: break-word;
+  z-index: 10000;
+  background: transparent;
+} 
