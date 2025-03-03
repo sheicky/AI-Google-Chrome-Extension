@@ -31,3 +31,7 @@ yarn-error.log*
 *.njsproj
 *.sln
 *.sw?
+.env 
+.env.local
+dist
+node_modules
