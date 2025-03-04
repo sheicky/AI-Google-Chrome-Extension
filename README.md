@@ -1,6 +1,8 @@
 # AutoTab: Chrome Extension for Text Completions
 
 A Chrome extension that provides AI-powered text completion for any text field on the web. As you type in any input field, text area, or contenteditable element, AutoTab will suggest completions that you can accept by simply pressing the Tab key.
+![image](https://github.com/user-attachments/assets/acc6d8e1-40d5-4c44-9f71-f20bc51e3920)
+
 
 ## Features
 
@@ -32,6 +34,8 @@ A Chrome extension that provides AI-powered text completion for any text field o
 ## How It Works
 
 The extension uses a content script that injects into web pages and attaches event listeners to track user input. When you type, the extension sends your text to a local API server that returns AI-generated completions. These completions are displayed as an overlay that perfectly matches the styling of the input field you're typing in.
+
+Youtube demo : https://youtu.be/62nznUvJ3KQ?si=LULltY_0gnA61pHj
 
 ## Development
 
